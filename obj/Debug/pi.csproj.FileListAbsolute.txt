@@ -1,0 +1,11 @@
+C:\Users\noahl\source\repos\pi\pi\bin\Debug\pi.exe.config
+C:\Users\noahl\source\repos\pi\pi\bin\Debug\pi.exe
+C:\Users\noahl\source\repos\pi\pi\bin\Debug\pi.pdb
+C:\Users\noahl\source\repos\pi\pi\obj\Debug\pi.csproj.AssemblyReference.cache
+C:\Users\noahl\source\repos\pi\pi\obj\Debug\pi.csproj.SuggestedBindingRedirects.cache
+C:\Users\noahl\source\repos\pi\pi\obj\Debug\pi.Form1.resources
+C:\Users\noahl\source\repos\pi\pi\obj\Debug\pi.Properties.Resources.resources
+C:\Users\noahl\source\repos\pi\pi\obj\Debug\pi.csproj.GenerateResource.cache
+C:\Users\noahl\source\repos\pi\pi\obj\Debug\pi.csproj.CoreCompileInputs.cache
+C:\Users\noahl\source\repos\pi\pi\obj\Debug\pi.exe
+C:\Users\noahl\source\repos\pi\pi\obj\Debug\pi.pdb
